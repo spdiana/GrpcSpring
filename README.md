@@ -1,13 +1,13 @@
 # Grpc with Spring Boot
 
 •	gRPC <br />
-•	Spring Boot
-•	Spring Data JPA
-•	MySQL 
-•	Gradle
-•	JUnit
-•	SLF4J
-•	Commons CLI 
+•	Spring Boot <br />
+•	Spring Data JPA <br />
+•	MySQL  <br />
+•	Gradle <br />
+•	JUnit  <br />
+•	SLF4J  <br />
+•	Commons CLI <br />
 
 
 Server:
